@@ -2,7 +2,7 @@
 categories:
   - Random Thoughts
 date: 2025-02-27
-draft: true
+draft: false
 links:
   - index.md
 readtime: 1
