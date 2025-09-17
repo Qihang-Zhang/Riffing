@@ -2,7 +2,7 @@
 categories:
   - Random Thoughts
 date: 2025-09-15
-draft: true
+draft: false
 links:
   - index.md
 readtime: 1
@@ -18,8 +18,6 @@ This is an example post.
 ## Section1
 ### Subsection1
 Hello, world!
-
-
 ## Section2
 
 ***References:***
