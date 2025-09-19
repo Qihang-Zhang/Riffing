@@ -11,7 +11,7 @@ authors:
   - <qihang>
 ---
 # Example in Riffing
-This is an example post.
+This is an example post in Riffing.
 <!-- more -->
 ## Overview
 [TOC]
