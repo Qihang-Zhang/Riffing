@@ -10,7 +10,7 @@ slug: example-in-riffing
 authors:
   - <qihang>
 ---
-# Example in Riffing
+# An Example Post In Riffing
 This is an example post in Riffing.
 <!-- more -->
 ## Overview
