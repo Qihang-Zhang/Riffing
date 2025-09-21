@@ -1,0 +1,18 @@
+INHERIT: ./customized_mkdocs/base_mkdocs.yml
+
+site_name: Riffing
+
+site_url: https://qihang-zhang.github.io/Riffing
+
+plugins:
+  blog:
+    blog_dir: Riffing
+
+theme:
+  custom_dir: overrides
+
+# Comments used to test Github Actions
+nav: 
+  - index.md
+  - Riffing: 
+    - index: Riffing/index.md
